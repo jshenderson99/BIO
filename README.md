@@ -1,6 +1,6 @@
 # BIO
 Biography of JSH.
-John Stephen (Steve) Henderson – Technology & Architecture
+John Stephen (Steve) Henderson – Technology & Architecture in Financial Services space.
 (Experienced Senior Solutions Architect with a demonstrated history of working in enterprise customer engagement, solution provider and telecommunications spaces. 
 Skilled in solutions and enterprise architecture principles in the banking, solution provider and telecommunications industries. Strong hands-on and engineering professional experience cultivated from years of software and communications industry experience and Ryerson P.I.)
 Most recently, Steve has been performing the role of Senior Solutions Architect for the Scotiabank Enterprise Technology group responsible for defining the strategic direction of Scotiabank’s contact centres and technology for Canada’s most global bank. As Scotiabank continues to grow through organic growth and mergers and acquisitions, defining and planning a flexible and agile architecture has become more significant to enabling graceful integration of new countries, regions and contact centres.
